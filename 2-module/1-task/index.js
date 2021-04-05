@@ -6,5 +6,5 @@ function sumSalary(salaries) {
       sum += value;
     }
   }
-return sum;
+  return sum;
 }
