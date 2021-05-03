@@ -4,5 +4,3 @@ function makeDiagonalRed(table) {
       row.cells[i].style.backgroundColor = 'red';
     }
 }
-
-makeDiagonalRed(table);
